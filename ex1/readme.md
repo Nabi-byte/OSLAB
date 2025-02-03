@@ -168,7 +168,7 @@
 ### CMP COMMAND OUTPUT
 ![cmp command output](cmp.png)
 ### CMP COMMAND MANUAL
-![cmp command manual](uname2png)
+![cmp command manual](uname2.png)
 ### CHMOD COMMAND OUTPUT
 ![chmod command output](chmod.png)
 ### CHMOD COMMAND MANUAL
