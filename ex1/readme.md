@@ -79,11 +79,11 @@
 ### PWD COMMAND OUTPUT
 ![pwd command output](pwd.png)
 ### PWD COMMAND MANUAL
-![pwd command manual](mpwd.png)
+![pwd command manual](mecho.png)
 ### MKDIR COMMAND OUTPUT
-![mkdir command output](mkdir.png)
+![mkdir command output](mecho1.png)
 ### MKDIR COMMAND MANUAL
-![mkdir command manual](mmkdir.png)
+![mkdir command manual](mexit.png)
 ### CD  SUBDIR COMMAND OUTPUT
 ![cd command output](cd.png)
 ### CD SUBDIR COMMAND MANUAL
