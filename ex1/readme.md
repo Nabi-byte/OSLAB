@@ -39,7 +39,7 @@
 ### TTY COMMAND OUTPUT -TERMINAL NAME-
 ![tty command output](tty.png)
 ### TTY COMMAND MANUAL
-![tty command manual](mtty.png)
+![tty command manual](exit.png)
 ### UNAME COMMAND OUTPUT
 ![uname command output](uname.png)
 ### UNAME COMMAND MANUAL
