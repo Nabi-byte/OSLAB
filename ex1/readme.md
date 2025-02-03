@@ -146,7 +146,7 @@
 ### LS COMMAND MANUAL
 ![ls command manual](mls.png)
 ### LS NAME * COMMAND OUTPUT
-![ls name command output](ls1.png)
+![ls name command output](mv.png)
 ### LS NAME * COMMAND MANUAL
 ![ls name command manual](mls.png)
 ### LS - A COMMAND OUTPUT
