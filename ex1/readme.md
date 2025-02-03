@@ -122,7 +122,7 @@
 ### MV OLD NEW COMMAND MANUAL
 ![mv  command manual](mmv.png)
 ### MV -V OLD NEW COMMAND OUTPUT
-![mv  command output](mv1.png)
+![mv  command output](mdata.png)
 ### MV -V OLD NEW COMMAND MANUAL
 ![mv  command manual](mmv.png)
 ### RM FILE COMMAND OUTPUT
