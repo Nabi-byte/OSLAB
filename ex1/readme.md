@@ -15,7 +15,7 @@
 ### DATE HOUR COMMAND OUTPUT
 ![date hour command output](date3.png)
 ### DATE HOUR COMMAND MANUAL
-![date hour command manual](mdate3.png)
+![date hour command manual](cd.png)
 ### CAL COMMAND OUTPUT
 ![cal command output](cal.png)
 ### CAL COMMAND MANUAL
