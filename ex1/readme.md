@@ -1,4 +1,4 @@
-# BASIC UNIX COMMANDS PRACTISE OUTPUT
+8# BASIC UNIX COMMANDS PRACTISE OUTPUT
 ## GENERAL  COMMANDS OUTPUTS 
 ### DATE COMMAND OUTPUT
 ![date command output](date.png)   
@@ -89,11 +89,11 @@
 ### CD SUBDIR COMMAND MANUAL
 ![cd command manual](mcd.png)
 ### CD .. COMMAND OUTPUT
-![cd .. command output](cd1.png)
+![cd .. command output](mrmdir(1).png)
 ### CD .. COMMAND MANUAL
 ![cd .. command manual](mcd1.png)
 ### RMDIR COMMAND OUTPUT
-![rmdir command output](rmdir.png)
+![rmdir command output](muname.png)
 ### RMDIR COMMAND MANUAL
 ![rmdir command manual](mrmdir.png)
 ## FILE COMMANDS
